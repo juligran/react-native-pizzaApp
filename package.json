@@ -25,6 +25,9 @@
   },
   "dependencies": {
     "apisauce": "^0.14.2",
+    "appcenter": "^1.1.0",
+    "appcenter-analytics": "^1.1.0",
+    "appcenter-crashes": "^1.1.0",
     "format-json": "^1.0.3",
     "identity-obj-proxy": "^3.0.0",
     "lodash": "^4.17.4",
@@ -34,6 +37,7 @@
     "react": "16.0.0",
     "react-native": "0.50.4",
     "react-native-animatable": "^1.2.4",
+    "react-native-code-push": "^5.2.1",
     "react-native-config": "^0.10.0",
     "react-native-device-info": "0.11.0",
     "react-native-i18n": "1.0.0",
